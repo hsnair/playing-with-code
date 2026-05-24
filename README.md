@@ -12,8 +12,10 @@ You could find a mix of different things here as I explore a wide range of compu
 * **Game Development:** Scripts, blueprints, and project files from Godot and Unreal Engine.
 * **Language Practice:** Snippets, algorithms, and sandbox files written in Python, Java, C, C++, and Assembly.
 
-## License
+## License and Copyright Disclaimer
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is a personal educational workspace.
 
-Feel free to poke around, borrow snippets, or use anything you find helpful.
+* **Original Work:** Any original code, scripts, and project files authored entirely by me are provided under the [MIT License](LICENSE).
+* **Third-Party Materials:** Because this is a sandbox environment, this repository frequently contains generated boilerplate code from various frameworks, libraries, and tools. It also contains code snippets, architectural patterns, and exercises adapted from external educational materials, documentation, and tutorials.
+* **Ownership Acknowledgment:** I do not claim ownership or copyright over any third-party code, educational content, or generated boilerplates included in this workspace. All rights to such materials remain with their respective original authors and copyright holders. They are included here strictly for personal reference and educational purposes.
