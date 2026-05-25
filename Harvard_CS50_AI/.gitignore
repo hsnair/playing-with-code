@@ -1,7 +1,7 @@
 # Any pycache files within this subdirectory
 __pycache__/
 
-# Project 0 - degrees -large dataset
+# Project 0 - degrees - large dataset
 Project-0/degrees/large/
 
 # Project 5 - traffic - dataset
