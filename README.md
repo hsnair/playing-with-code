@@ -16,6 +16,6 @@ You could find a mix of different things here as I explore a wide range of compu
 
 This repository is a personal educational workspace.
 
-* **Original Work:** Any original code, scripts, and project files authored entirely by me are provided under the [MIT License](LICENSE).
+* **Original Work:** Any original code, scripts, and project files authored entirely by me are provided under the [Apache License 2.0](LICENSE).
 * **Third-Party Materials:** Because this is a sandbox environment, this repository frequently contains generated boilerplate code from various frameworks, libraries, and tools. It also contains code snippets, architectural patterns, and exercises adapted from external educational materials, documentation, and tutorials.
 * **Ownership Acknowledgment:** I do not claim ownership or copyright over any third-party code, educational content, or generated boilerplates included in this workspace. All rights to such materials remain with their respective original authors and copyright holders. They are included here strictly for personal reference and educational purposes.
